@@ -2,6 +2,8 @@
 
 Ceny ověřeny `12. 8. 2026`. Ceny jsou s DPH. Doprava a podkladní kamenivo `2/32` nejsou započítané.
 
+Levnější alternativy nejdražších položek a podmínky, za kterých se vyplatí, jsou v `porovnani-cen.md`.
+
 ### Koupit Teď
 
 | Položka | Dodavatel | Množství | Cena/ks nebo balení | Celkem |
