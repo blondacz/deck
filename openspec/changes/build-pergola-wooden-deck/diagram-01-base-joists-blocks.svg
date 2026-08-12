@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1050" viewBox="0 0 1600 1050">
+  <defs>
+    <style>
+      .title{font:700 28px Arial;fill:#1f2933}.label{font:16px Arial;fill:#1f2933}.small{font:13px Arial;fill:#1f2933}.tiny{font:11px Arial;fill:#1f2933}
+      .deck{fill:#f6d7a8;stroke:#7c4a21;stroke-width:3}.pergola{fill:none;stroke:#334e68;stroke-width:3;stroke-dasharray:10 7}
+      .block{fill:#b8b8b8;stroke:#555;stroke-width:2}.paver{fill:#b8b08d;stroke:#6b705c;stroke-width:2;opacity:.9}
+      .pier{fill:#8f8f8f;stroke:#313131;stroke-width:2}.old{fill:#aaa;stroke:#444;stroke-width:2;stroke-dasharray:6 4}
+      .joist{stroke:#3d2b1f;stroke-width:5}.pair{stroke:#b42318;stroke-width:5}.pad{fill:#111;stroke:#fff;stroke-width:1}
+      .geo{stroke:#2f9e44;stroke-width:3;stroke-dasharray:10 6;fill:none}.dim{stroke:#334e68;stroke-width:2;marker-start:url(#a);marker-end:url(#a)}
+    </style>
+    <marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#334e68"/></marker>
+    <g id="internal-row">
+      <!-- Six purchased blocks form six installed segments. Left edge joist is carried by structural pavers. -->
+      <rect x="214" y="0" width="1000" height="200" class="block"/>
+      <rect x="1214" y="0" width="1000" height="200" class="block"/>
+      <rect x="2214" y="0" width="1000" height="200" class="block"/>
+      <rect x="3214" y="0" width="1000" height="200" class="block"/>
+      <rect x="4214" y="0" width="1000" height="200" class="block"/>
+      <rect x="5214" y="0" width="728" height="200" class="block"/>
+    </g>
+    <g id="pads">
+      <circle cx="100" cy="100" r="10" class="pad"/><circle cx="550" cy="100" r="10" class="pad"/>
+      <circle cx="1000" cy="100" r="10" class="pad"/><circle cx="1450" cy="100" r="10" class="pad"/>
+      <circle cx="1915.5" cy="100" r="10" class="pad"/><circle cx="1964.5" cy="100" r="10" class="pad"/><circle cx="2400" cy="100" r="10" class="pad"/>
+      <circle cx="2900" cy="100" r="10" class="pad"/><circle cx="3350" cy="100" r="10" class="pad"/><circle cx="3700" cy="100" r="10" class="pad"/>
+      <circle cx="3977.5" cy="100" r="10" class="pad"/><circle cx="4026.5" cy="100" r="10" class="pad"/><circle cx="4475" cy="100" r="10" class="pad"/>
+      <circle cx="4925" cy="100" r="10" class="pad"/><circle cx="5400" cy="100" r="10" class="pad"/><circle cx="5900" cy="100" r="10" class="pad"/>
+    </g>
+  </defs>
+
+  <rect width="1600" height="1050" fill="#f8f9fa"/>
+  <text x="45" y="48" class="title">01 - Zaklad: konstrukcni dlazdice, obrubniky, hranoly</text>
+  <text x="45" y="75" class="label">Pudorys. Zatravnovaci dlazdice nahrazuji obrubniky na trech okrajich.</text>
+
+  <g transform="translate(210 140) scale(.18)">
+    <rect x="0" y="-280" width="5800" height="180" fill="#e4e7eb" stroke="#7b8794" stroke-width="12"/>
+    <text x="2050" y="-155" style="font:90px Arial;fill:#1f2933">DUM / FRANCOUZSKE DVERE</text>
+
+    <rect x="0" y="0" width="5942" height="3229" class="deck"/>
+    <rect x="0" y="0" width="5800" height="3100" class="pergola"/>
+
+    <!-- Structural paver rows. 300 mm under deck, 100 mm outside. -->
+    <g id="edge-pavers">
+      <rect x="-100" y="0" width="400" height="600" class="paver"/><rect x="-100" y="600" width="400" height="600" class="paver"/><rect x="-100" y="1200" width="400" height="600" class="paver"/><rect x="-100" y="1800" width="400" height="600" class="paver"/><rect x="-100" y="2400" width="400" height="600" class="paver"/><rect x="-100" y="3000" width="400" height="229" class="paver"/>
+      <rect x="5642" y="0" width="400" height="600" class="paver"/><rect x="5642" y="600" width="400" height="600" class="paver"/><rect x="5642" y="1200" width="400" height="600" class="paver"/><rect x="5642" y="1800" width="400" height="600" class="paver"/><rect x="5642" y="2400" width="400" height="600" class="paver"/><rect x="5642" y="3000" width="400" height="229" class="paver"/>
+      <!-- Garden edge pavers are segmented around five existing piers. -->
+      <rect x="620" y="2929" width="600" height="400" class="paver"/><rect x="1700" y="2929" width="440" height="400" class="paver"/><rect x="2640" y="2929" width="600" height="400" class="paver"/><rect x="4010" y="2929" width="600" height="400" class="paver"/><rect x="4610" y="2929" width="540" height="400" class="paver"/>
+    </g>
+
+    <!-- Three internal obrubnik rows. -->
+    <use href="#internal-row" x="0" y="0"/>
+    <use href="#internal-row" x="0" y="1010"/>
+    <use href="#internal-row" x="0" y="2020"/>
+
+    <!-- Concrete piers replace pavers at garden edge. Positions schematic. -->
+    <rect x="120" y="2929" width="500" height="500" class="pier"/><rect x="2140" y="2929" width="500" height="500" class="pier"/><rect x="5150" y="2929" width="500" height="500" class="pier"/>
+    <rect x="1340" y="3000" width="360" height="420" class="old"/><rect x="3650" y="3000" width="360" height="420" class="old"/>
+
+    <!-- 16 joists. Paired around alternating board butt joints. -->
+    <line x1="100" y1="0" x2="100" y2="3229" class="joist"/><line x1="550" y1="0" x2="550" y2="3229" class="joist"/>
+    <line x1="1000" y1="0" x2="1000" y2="3229" class="joist"/><line x1="1450" y1="0" x2="1450" y2="3229" class="joist"/>
+    <line x1="1915.5" y1="0" x2="1915.5" y2="3229" class="pair"/><line x1="1964.5" y1="0" x2="1964.5" y2="3229" class="pair"/>
+    <line x1="2400" y1="0" x2="2400" y2="3229" class="joist"/><line x1="2900" y1="0" x2="2900" y2="3229" class="joist"/>
+    <line x1="3350" y1="0" x2="3350" y2="3229" class="joist"/><line x1="3700" y1="0" x2="3700" y2="3229" class="joist"/>
+    <line x1="3977.5" y1="0" x2="3977.5" y2="3229" class="pair"/><line x1="4026.5" y1="0" x2="4026.5" y2="3229" class="pair"/>
+    <line x1="4475" y1="0" x2="4475" y2="3229" class="joist"/><line x1="4925" y1="0" x2="4925" y2="3229" class="joist"/>
+    <line x1="5400" y1="0" x2="5400" y2="3229" class="joist"/><line x1="5900" y1="0" x2="5900" y2="3229" class="joist"/>
+
+    <!-- 3 internal supports + 1 structural garden-edge support = 64 pads. -->
+    <use href="#pads" x="0" y="0"/><use href="#pads" x="0" y="1010"/><use href="#pads" x="0" y="2020"/><use href="#pads" x="0" y="2929"/>
+
+    <!-- Geotextile turns up outside structural edge pavers/piers. -->
+    <path d="M-110 0V3340M6052 0V3340M-110 3340H6052" class="geo"/>
+  </g>
+
+  <line x1="210" y1="105" x2="1280" y2="105" class="dim"/><text x="700" y="98" class="small">5942 mm</text>
+  <text x="1325" y="410" class="label">Legenda</text>
+  <line x1="1325" y1="445" x2="1380" y2="445" class="joist"/><text x="1395" y="450" class="small">bezny hranol</text>
+  <line x1="1325" y1="480" x2="1380" y2="480" class="pair"/><text x="1395" y="485" class="small">par pod spojem prken</text>
+  <rect x="1325" y="510" width="55" height="18" class="block"/><text x="1395" y="525" class="small">vnitrni obrubnik</text>
+  <rect x="1325" y="545" width="55" height="25" class="paver"/><text x="1395" y="562" class="small">nosna zatravnovaci dlazdice</text>
+  <rect x="1325" y="590" width="35" height="35" class="pier"/><text x="1395" y="615" class="small">betonova patka</text>
+
+  <text x="45" y="820" class="label">Mnozstvi a pravidla</text>
+  <text x="45" y="848" class="small">16 hranolu. Bezna roztec max. 500 mm. Dva pary hranolu pod stridavymi celnimi spoji.</text>
+  <text x="45" y="874" class="small">3 vnitrni rady: 6 obrubniku/segmentu na radu = 18 ks; koupit 20 ks.</text>
+  <text x="45" y="900" class="small">3 okrajove rady: zatravnovaci dlazdice misto obrubniku; koupit 19 ks. Hranol musi sedet na pevnem zebru.</text>
+  <text x="45" y="926" class="small">64 pryzovych podlozek. Tri role 2000x70 mm daji cca 84 podlozek 70x70 mm.</text>
+  <text x="45" y="952" class="small">Uhelniky jen na vnitrni obrubniky: 36 ks; koupit 40. Do zatravnovacich dlazdic nevrtat.</text>
+</svg>

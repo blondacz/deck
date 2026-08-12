@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1050" viewBox="-700 -700 7400 5000">
+  <defs>
+    <style>
+      .title { font: 700 175px Arial, sans-serif; fill: #1f2933; }
+      .label { font: 100px Arial, sans-serif; fill: #1f2933; }
+      .small { font: 78px Arial, sans-serif; fill: #1f2933; }
+      .boardA { fill: #c98945; stroke: #7c4a21; stroke-width: 8; }
+      .boardB { fill: #d99f5c; stroke: #7c4a21; stroke-width: 8; }
+      .gap { fill: #333; opacity: 0.55; }
+      .outline { fill: none; stroke: #4a2f18; stroke-width: 20; }
+      .joint { stroke: #b42318; stroke-width: 18; stroke-dasharray: 65 40; }
+      .pair { stroke: #067647; stroke-width: 15; stroke-dasharray: 35 25; }
+      .dim { stroke: #334e68; stroke-width: 12; marker-start: url(#arrow); marker-end: url(#arrow); }
+      .dimtext { font: 92px Arial, sans-serif; fill: #334e68; }
+    </style>
+    <marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#334e68" />
+    </marker>
+  </defs>
+
+  <rect x="-700" y="-700" width="7400" height="5000" fill="#f8f9fa" />
+  <text x="-580" y="-440" class="title">Diagram 02 - Terrace Board Layout</text>
+  <text x="-580" y="-250" class="label">Siberian larch boards 27 x 142 x 4000 mm. Boards run left-right.</text>
+
+  <!-- Deck outline -->
+  <rect x="0" y="0" width="5942" height="3229" fill="#f5d0a0" opacity="0.35" />
+  <rect x="0" y="0" width="5942" height="3229" class="outline" />
+
+  <!-- 22 rows: 142 board + 5 gap. Odd rows full board left, even rows full board right. Butt gap assumed 4 mm. -->
+  <g id="boards">
+    <!-- helper: y pitch 147 -->
+    <g transform="translate(0 0)"><rect x="0" y="0" width="4000" height="142" class="boardA"/><rect x="4000" y="0" width="4" height="142" class="gap"/><rect x="4004" y="0" width="1938" height="142" class="boardB"/></g>
+    <g transform="translate(0 147)"><rect x="0" y="0" width="1938" height="142" class="boardB"/><rect x="1938" y="0" width="4" height="142" class="gap"/><rect x="1942" y="0" width="4000" height="142" class="boardA"/></g>
+    <g transform="translate(0 294)"><rect x="0" y="0" width="4000" height="142" class="boardA"/><rect x="4000" y="0" width="4" height="142" class="gap"/><rect x="4004" y="0" width="1938" height="142" class="boardB"/></g>
+    <g transform="translate(0 441)"><rect x="0" y="0" width="1938" height="142" class="boardB"/><rect x="1938" y="0" width="4" height="142" class="gap"/><rect x="1942" y="0" width="4000" height="142" class="boardA"/></g>
+    <g transform="translate(0 588)"><rect x="0" y="0" width="4000" height="142" class="boardA"/><rect x="4000" y="0" width="4" height="142" class="gap"/><rect x="4004" y="0" width="1938" height="142" class="boardB"/></g>
+    <g transform="translate(0 735)"><rect x="0" y="0" width="1938" height="142" class="boardB"/><rect x="1938" y="0" width="4" height="142" class="gap"/><rect x="1942" y="0" width="4000" height="142" class="boardA"/></g>
+    <g transform="translate(0 882)"><rect x="0" y="0" width="4000" height="142" class="boardA"/><rect x="4000" y="0" width="4" height="142" class="gap"/><rect x="4004" y="0" width="1938" height="142" class="boardB"/></g>
+    <g transform="translate(0 1029)"><rect x="0" y="0" width="1938" height="142" class="boardB"/><rect x="1938" y="0" width="4" height="142" class="gap"/><rect x="1942" y="0" width="4000" height="142" class="boardA"/></g>
+    <g transform="translate(0 1176)"><rect x="0" y="0" width="4000" height="142" class="boardA"/><rect x="4000" y="0" width="4" height="142" class="gap"/><rect x="4004" y="0" width="1938" height="142" class="boardB"/></g>
+    <g transform="translate(0 1323)"><rect x="0" y="0" width="1938" height="142" class="boardB"/><rect x="1938" y="0" width="4" height="142" class="gap"/><rect x="1942" y="0" width="4000" height="142" class="boardA"/></g>
+    <g transform="translate(0 1470)"><rect x="0" y="0" width="4000" height="142" class="boardA"/><rect x="4000" y="0" width="4" height="142" class="gap"/><rect x="4004" y="0" width="1938" height="142" class="boardB"/></g>
+    <g transform="translate(0 1617)"><rect x="0" y="0" width="1938" height="142" class="boardB"/><rect x="1938" y="0" width="4" height="142" class="gap"/><rect x="1942" y="0" width="4000" height="142" class="boardA"/></g>
+    <g transform="translate(0 1764)"><rect x="0" y="0" width="4000" height="142" class="boardA"/><rect x="4000" y="0" width="4" height="142" class="gap"/><rect x="4004" y="0" width="1938" height="142" class="boardB"/></g>
+    <g transform="translate(0 1911)"><rect x="0" y="0" width="1938" height="142" class="boardB"/><rect x="1938" y="0" width="4" height="142" class="gap"/><rect x="1942" y="0" width="4000" height="142" class="boardA"/></g>
+    <g transform="translate(0 2058)"><rect x="0" y="0" width="4000" height="142" class="boardA"/><rect x="4000" y="0" width="4" height="142" class="gap"/><rect x="4004" y="0" width="1938" height="142" class="boardB"/></g>
+    <g transform="translate(0 2205)"><rect x="0" y="0" width="1938" height="142" class="boardB"/><rect x="1938" y="0" width="4" height="142" class="gap"/><rect x="1942" y="0" width="4000" height="142" class="boardA"/></g>
+    <g transform="translate(0 2352)"><rect x="0" y="0" width="4000" height="142" class="boardA"/><rect x="4000" y="0" width="4" height="142" class="gap"/><rect x="4004" y="0" width="1938" height="142" class="boardB"/></g>
+    <g transform="translate(0 2499)"><rect x="0" y="0" width="1938" height="142" class="boardB"/><rect x="1938" y="0" width="4" height="142" class="gap"/><rect x="1942" y="0" width="4000" height="142" class="boardA"/></g>
+    <g transform="translate(0 2646)"><rect x="0" y="0" width="4000" height="142" class="boardA"/><rect x="4000" y="0" width="4" height="142" class="gap"/><rect x="4004" y="0" width="1938" height="142" class="boardB"/></g>
+    <g transform="translate(0 2793)"><rect x="0" y="0" width="1938" height="142" class="boardB"/><rect x="1938" y="0" width="4" height="142" class="gap"/><rect x="1942" y="0" width="4000" height="142" class="boardA"/></g>
+    <g transform="translate(0 2940)"><rect x="0" y="0" width="4000" height="142" class="boardA"/><rect x="4000" y="0" width="4" height="142" class="gap"/><rect x="4004" y="0" width="1938" height="142" class="boardB"/></g>
+    <g transform="translate(0 3087)"><rect x="0" y="0" width="1938" height="142" class="boardB"/><rect x="1938" y="0" width="4" height="142" class="gap"/><rect x="1942" y="0" width="4000" height="142" class="boardA"/></g>
+  </g>
+
+  <line x1="1938" y1="0" x2="1938" y2="3229" class="joint" />
+  <line x1="4000" y1="0" x2="4000" y2="3229" class="joint" />
+  <line x1="1915.5" y1="0" x2="1915.5" y2="3229" class="pair"/><line x1="1964.5" y1="0" x2="1964.5" y2="3229" class="pair"/>
+  <line x1="3977.5" y1="0" x2="3977.5" y2="3229" class="pair"/><line x1="4026.5" y1="0" x2="4026.5" y2="3229" class="pair"/>
+  <text x="2040" y="280" class="small">dvojice hranolu pod spojem</text>
+  <text x="4100" y="280" class="small">dvojice hranolu pod spojem</text>
+
+  <line x1="0" y1="-330" x2="5942" y2="-330" class="dim" />
+  <text x="2250" y="-390" class="dimtext">5942 mm</text>
+  <line x1="-360" y1="0" x2="-360" y2="3229" class="dim" />
+  <text x="-520" y="1870" class="dimtext" transform="rotate(-90 -520 1870)">3229 mm = 22 rows</text>
+
+  <g transform="translate(0 3550)">
+    <text x="0" y="0" class="label">Cut logic</text>
+    <text x="0" y="160" class="small">Each row uses one full 4000 mm board plus one approx. 1938 mm piece and a 4 mm butt gap.</text>
+    <text x="0" y="300" class="small">Two 1938 mm short pieces fit from one 4000 mm board. 22 full + 11 cut + 3 spare = 36 boards.</text>
+    <text x="0" y="440" class="small">Stridave spoje x=1938/4000. Kazdy konec prkna ma vlastni hranol v tesne dvojici.</text>
+    <text x="0" y="580" class="small">Existing concrete piers affect only hidden base/perimeter supports; the visible deck boards remain a straight rectangle.</text>
+  </g>
+</svg>

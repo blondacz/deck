@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <defs><style>
+    .title{font:700 28px Arial;fill:#1f2933}.label{font:17px Arial;fill:#1f2933}.small{font:14px Arial;fill:#1f2933}
+    .board{fill:#c98945;stroke:#7c4a21;stroke-width:2}.fascia{fill:#b87533;stroke:#6b3e16;stroke-width:2}.joist{fill:#8b5e34;stroke:#4a2f18;stroke-width:2}
+    .pad{fill:#222}.paver{fill:#b8b08d;stroke:#6b705c;stroke-width:2}.top{fill:#d0d5dd;stroke:#868e96;stroke-width:2}.base{fill:#aeb7c2;stroke:#697586;stroke-width:2}.geo{stroke:#2f9e44;stroke-width:5;stroke-dasharray:14 8;fill:none}.soil{fill:#d8b384;stroke:#9c6644;stroke-width:2}.dim{stroke:#334e68;stroke-width:2;marker-start:url(#a);marker-end:url(#a)}
+  </style><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#334e68"/></marker></defs>
+  <rect width="1400" height="900" fill="#f8f9fa"/>
+  <text x="55" y="55" class="title">03 - Rez okrajem: dlazdice, hranol, bocnice</text>
+  <text x="55" y="85" class="label">Zatravnovaci dlazdice je soucast nosneho okraje a nahrazuje obrubnik.</text>
+
+  <g transform="translate(180 150)">
+    <rect x="350" y="40" width="610" height="27" class="board"/><text x="990" y="60" class="label">terasove prkno 27 mm</text>
+    <rect x="390" y="67" width="120" height="4" class="pad"/><text x="990" y="82" class="label">distancni podlozka 4/7 mm</text>
+    <rect x="380" y="71" width="500" height="70" class="joist"/><text x="990" y="112" class="label">krajni hranol 45x70</text>
+    <rect x="405" y="141" width="130" height="8" class="pad"/><text x="990" y="153" class="label">pryzova podlozka 8 mm</text>
+
+    <!-- Paver crosses deck edge: 300 inside, 100 outside. -->
+    <rect x="250" y="149" width="400" height="80" class="paver"/>
+    <line x1="350" y1="120" x2="350" y2="250" stroke="#b42318" stroke-width="3" stroke-dasharray="8 5"/>
+    <text x="195" y="245" class="small">100 mm venku</text><text x="430" y="245" class="small">300 mm pod terasou</text>
+    <text x="700" y="190" class="label">DITON zatravnovaci dlazdice 600x400x80</text>
+
+    <rect x="150" y="229" width="850" height="45" class="top"/><text x="1030" y="260" class="label">4/8 kladeci vrstva</text>
+    <rect x="150" y="274" width="850" height="95" class="base"/><text x="1030" y="325" class="label">2/32 podklad</text>
+    <line x1="150" y1="369" x2="1000" y2="369" stroke="#2f9e44" stroke-width="5" stroke-dasharray="14 8"/>
+    <rect x="150" y="374" width="850" height="90" class="soil"/>
+
+    <!-- Geotextile upturn outside paver. -->
+    <path d="M245 369V145" class="geo"/><text x="20" y="315" class="small">geotextilie mezi zeminou a vnejsi stranou dlazdice</text>
+
+    <!-- Fascia, straight visible line. -->
+    <rect x="315" y="40" width="28" height="142" class="fascia"/>
+    <text x="65" y="70" class="label">hladka bocnice</text><text x="65" y="95" class="small">1 rada na 3 stranach</text>
+
+    <text x="150" y="550" class="label">Pravidla</text>
+    <text x="150" y="580" class="small">Hranol musi sedet na pevnem betonovem zebru, ne nad otvorem.</text>
+    <text x="150" y="605" class="small">Do zatravnovaci dlazdice nevrtat. Bocnice a dreveny obvod drzi okrajovy ram.</text>
+    <text x="150" y="630" class="small">Na dlouhe strane betonove patky nahrazuji dlazdice. Viditelna hrana terasy zustava rovna.</text>
+    <text x="150" y="655" class="small">Dole pod bocnici nechat mezeru pro vzduch a cisteni.</text>
+  </g>
+</svg>
