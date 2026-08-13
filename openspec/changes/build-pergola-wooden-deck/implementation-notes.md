@@ -84,7 +84,7 @@ Requirements for the detail:
 - Internal bearing blocks: each row uses six support segments from six DITON straight edging blocks (`1000 x 200 x 50 mm`). The left edge joist is carried by structural pavers, so no extra short obrubník is needed there. Three rows use 18 blocks; buy 20. Use as bearing, not structural anchors.
 - Framing: use 16 full-depth joist lines. Butt joints use paired joists so each board end has independent support. Buy 17 joists.
 - Joist restraint: use 2 small L brackets per internal obrubník segment, 36 exact/40 purchased. One concrete fixing and two wood screws per bracket. Do not drill grass pavers. Brackets restrain position only; concrete elements and gravel carry vertical load.
-- Final Czech shopping list: use `nakupni-seznam.md`, price checked 2026-08-12.
+- Final Czech shopping list: use `nakupni-seznam.md`; prices checked 2026-08-12 to 2026-08-13 and quantities audited in `audit-mnozstvi.md`.
 - Czech shopping list: use `nakupni-seznam.md` for the same final quantities and assumptions in Czech.
 
 ## Long Outside Edge With Concrete Piers

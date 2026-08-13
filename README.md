@@ -9,5 +9,6 @@ Planning documents, diagrams, material references, and a current Czech shopping 
 - Board layout: `openspec/changes/build-pergola-wooden-deck/diagram-02-board-layout.svg`
 - Fascia section: `openspec/changes/build-pergola-wooden-deck/diagram-03-fascia-section.svg`
 - Bracket detail: `openspec/changes/build-pergola-wooden-deck/diagram-04-l-bracket-detail.svg`
+- Quantity audit: `openspec/changes/build-pergola-wooden-deck/audit-mnozstvi.md`
 
-Prices in the shopping list were checked on 2026-08-12. Confirm price and local stock before purchase.
+Quantities were audited on 2026-08-13. Confirm current prices, local stock, measured base depth, and pier positions before purchase.

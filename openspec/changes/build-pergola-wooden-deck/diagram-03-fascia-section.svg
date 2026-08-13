@@ -10,7 +10,7 @@
 
   <g transform="translate(180 150)">
     <rect x="350" y="40" width="610" height="27" class="board"/><text x="990" y="60" class="label">terasove prkno 27 mm</text>
-    <rect x="390" y="67" width="120" height="4" class="pad"/><text x="990" y="82" class="label">distancni podlozka 4/7 mm</text>
+    <rect x="390" y="67" width="120" height="4" class="pad"/><text x="990" y="82" class="label">podlozka vyska 6 mm; spara 4/7 mm</text>
     <rect x="380" y="71" width="500" height="70" class="joist"/><text x="990" y="112" class="label">krajni hranol 45x70</text>
     <rect x="405" y="141" width="130" height="8" class="pad"/><text x="990" y="153" class="label">pryzova podlozka 8 mm</text>
 
@@ -21,7 +21,7 @@
     <text x="700" y="190" class="label">DITON zatravnovaci dlazdice 600x400x80</text>
 
     <rect x="150" y="229" width="850" height="45" class="top"/><text x="1030" y="260" class="label">4/8 kladeci vrstva</text>
-    <rect x="150" y="274" width="850" height="95" class="base"/><text x="1030" y="325" class="label">2/32 podklad</text>
+    <rect x="150" y="274" width="850" height="95" class="base"/><text x="1030" y="325" class="label">podklad 95 mm; overit 0/32 vs 2/32</text>
     <line x1="150" y1="369" x2="1000" y2="369" stroke="#2f9e44" stroke-width="5" stroke-dasharray="14 8"/>
     <rect x="150" y="374" width="850" height="90" class="soil"/>
 
