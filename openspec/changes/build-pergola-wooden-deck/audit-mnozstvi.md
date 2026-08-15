@@ -74,7 +74,7 @@ Pochozí plocha:
 22 řad x 16 hranolů x 2 vruty = 704 terasových vrutů
 ```
 
-Bočnice potřebují přibližně 36 až 37 kotevních míst se dvěma vruty, tedy 72 až 74 vrutů. Celkem je potřeba přibližně 778 kusů. Čtyři balení po 200 kusech by ponechala jen 22 kusů rezervy, proto je pět balení rozumných. Před nákupem ověřit, že konkrétní 5x60 je výrobcem určen pro 27/28mm modřín přes 6mm podložku; podle typu vrutu může výrobce požadovat délku 70 mm.
+Bočnice potřebují přibližně 36 až 37 kotevních míst se dvěma vruty, tedy 72 až 74 vrutů. Celkem je potřeba přibližně 778 kusů. Čtyři balení po 200 kusech by ponechala jen 22 kusů rezervy, proto je pět balení rozumných. Pro 27/28mm modřín přes 6mm podložku použít přednostně délku 70 mm; 60mm vrut zasahuje do hranolu jen přibližně 27 mm a musí jej výslovně schválit výrobce konkrétního vrutu.
 
 Úhelníky a jejich spojovací materiál:
 

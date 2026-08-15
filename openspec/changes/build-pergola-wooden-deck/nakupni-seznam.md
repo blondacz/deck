@@ -12,30 +12,34 @@ Levnější alternativy nejdražších položek a podmínky, za kterých se vypl
 | [Hladké prkno sibiřský modřín AB 28x140x4000](https://www.kup-drevo.cz/hladka-terasova-prkna-28x140x4000-ab-modrin) | Kup-dřevo | 5 ks | 596,29 Kč | 2 981,45 Kč |
 | [Podkladový hranol modřín AB 45x70x4000](https://www.kup-drevo.cz/podkladovy-hranol-45x70x4000-ab-modrin) | Kup-dřevo | 17 ks | 551,76 Kč | 9 379,92 Kč |
 | [DITON obrubník rovný 1000x200x50](https://www.bauhaus.cz/diton-zahradni-obrubnik-s-rovnou-hranou-28475220) | Bauhaus | 20 ks | 89 Kč | 1 780 Kč |
-| [DITON zatravňovací dlaždice 600x400x80](https://www.bauhaus.cz/diton-zatravnovaci-dlazdice-21674983) | Bauhaus | předběžně 20 ks | 110 Kč | 2 200 Kč |
-| [Pryžová podložka v roli 2000x70x8](https://www.artisan.cz/montazni-podlozka-v-roli-2000x70x8mm-pryz) | Artisan | 3 role | 176,62 Kč | 529,86 Kč |
+| [DITON zatravňovací dlaždice 600x400x80](https://www.obi.cz/terasove-a-chodnikove-dlazdice/diton-zatravnovaci-dlazba-80-prirodni-60-x-40-x-8-cm/p/5268362) | OBI | předběžně 20 ks | 102 Kč | 2 040 Kč |
+| [Pryžová podložka v roli 2000x70x8](https://www.artisan.cz/montazni-podlozka-v-roli-2000x70x8mm-pryz) | Artisan | 3 role | 176,62 Kč | košík 529,87 Kč |
 | [Geotextilie NETEX HOME 100 g/m2, 10x1 m](https://www.bauhaus.cz/juta-geotextilie-netex-home-21683581) | Bauhaus | 3 role = 30 m² | 295 Kč | 885 Kč |
-| [Štěrk 4/8 volně ložený](https://www.bauhaus.cz/sterk-volne-lozeny-48-mm-21673078) | Bauhaus | předběžně 1 700 kg | 2,75 Kč/kg | 4 675 Kč |
-| [Úhelník 40x40x40x2](https://www.artisan.cz/uhelnik-90-typ1-40x40x40x2-0mm) | Artisan | 40 ks | 4,83 Kč | 193,20 Kč |
-| [Fischer DuoPower 5x25](https://www.sabtrade.cz/fischer-duopower-5x25/) | Sabtrade | 1 balení/100 ks | 200 Kč | 200 Kč |
-| [Nerez A2 vrut 4x35, půlkulatá hlava Torx](https://www.hobby-max.cz/nerezovy-vrut-do-dreva-4x35-mm-pulkulata-hlava-torx-a2-odolny-proti-korozi/) | Hobby-max | 200 ks | 1,13 Kč | 226 Kč |
+| [Prané drcené kamenivo 4/8](https://www.tezebnipiskova.cz/cenik) nebo místní štěrkovna | Těžební Písková / místní | předběžně 1,7 t | 701,80 Kč/t s DPH | 1 193,06 Kč + doprava |
+| [Úhelník 40x40x40x2](https://www.artisan.cz/uhelnik-90-typ1-40x40x40x2-0mm) | Artisan | 40 ks | košík 193,12 Kč | 193,12 Kč |
+| [Fischer DuoPower 5x25](https://www.obchodprodilnu.cz/hmozdinka-duopower-fischer-6382.html) | ObchodProDílnu | 1 balení/100 ks | 128 Kč po registraci | 128 Kč |
+| [Nerez A2 vrut 4x35, půlkulatá hlava Torx](https://www.obchodprodilnu.cz/vrut-s-pulkulatou-hlavou-trx-drazka-nerez-a2-6123.html) | ObchodProDílnu | 200 ks | 178 Kč po registraci | 178 Kč |
 | [OSMO vosk na řezné hrany 0,375 l](https://www.artisan.cz/osmo-vosk-na-rezne-hrany-0-375l-bezbarvy) | Artisan | 1 ks | 686,07 Kč | 686,07 Kč |
 
-Mezisoučet bez distančních podložek a terasových vrutů: přibližně `45 559 Kč`.
+Mezisoučet bez distančních podložek a terasových vrutů: přibližně `41 797 Kč`.
 
 ### Potvrdit Pak Koupit
 
 | Položka | Množství | Cena | Poznámka |
 |---|---:|---:|---|
-| [Distanční podložka 4 mm](https://www.kup-drevo.cz/distancni-terasova-podlozka-4-mm-1) nebo [7 mm](https://www.kup-drevo.cz/distancni-terasova-podlozka-7-mm-1) | 400 ks | 4,48 Kč/ks = 1 792 Kč | Potřeba 368 ks + 32 ks rezerva. Variantu vybrat podle změřené vlhkosti a upravit šířku pole; viz audit. |
-| Terasové vruty nerez 5x60 | 5 balení po 200 ks | uživatelská nabídka 499 Kč/bal = 2 495 Kč | Koupit 5 balení. Čtyři balení po 200 ks jsou malá rezerva. Ověřit A2/A4 a vhodnost pro modřín. |
+| [Distanční podložka 7 mm Artisan](https://www.artisan.cz/distancni-terasova-podlozka-pro-spary-7-mm) | 400 ks | košík 1 519,76 Kč | Levnější 7mm varianta. Tělo má 6 mm. Potřeba 368 ks + 32 ks rezerva. Použít jen pokud vyjde ze změřené vlhkosti a upravené šířky pole. |
+| [Distanční podložka 4 mm Kup-dřevo](https://www.kup-drevo.cz/distancni-terasova-podlozka-4-mm-1) | 400 ks | 1 792 Kč | Levnější 4mm varianta; Artisan 4 mm stojí 1 972 Kč. |
+| [Terasový vrut 5x70 C2/AISI 410](https://lunfix.cz/product/terasovy-vrut-5x70-nerezovy-C2) | 5 balení po 200 ks | 1 645,76 Kč, doprava v košíku zdarma | Pro běžné vnitrozemské prostředí bez soli/bazénu. Před platbou znovu ověřit dostupnost. |
+| Terasový vrut 5x70 A2/A4 | 5 balení po 200 ks | uživatelská nabídka 2 495 Kč, pokud dodavatel cenu potvrdí | Preferovat pro vyšší korozní rezervu. Musí být 5x70 a vhodný pro modřín; původní 5x60 je krátká hraniční varianta. |
 | [Remmers TOP olej modřín 5 l](https://www.kup-drevo.cz/top-terasovy-olej-remmers-modrin-5-00-ltr) | 1 ks | 1 727,88 Kč | Volitelné. Jedno 5l balení je o 166,98 Kč levnější než dvě balení po 2,5 l. Objem pro dva nátěry pochozí plochy + bočnice. |
 
-Celkem bez oleje: přibližně `49 846 Kč`.
+Nejlevnější scénář bez oleje, se 7mm podložkami a C2 vruty: přibližně `44 963 Kč` bez dopravy těžkého materiálu.
 
-Celkem s jedním 5l balením oleje: přibližně `51 574 Kč`.
+Stejný scénář s jedním 5l balením oleje: přibližně `46 691 Kč` bez dopravy těžkého materiálu.
 
-Celkové ceny používají konzervativní variantu 20 zatravňovacích dlaždic a souvislou 45mm vrstvu 4/8. Po zaměření může lokální lože množství i cenu kameniva výrazně snížit.
+Scénář s uživatelskou nabídkou A2/A4 5x70 místo C2: přibližně `45 812 Kč` bez oleje nebo `47 540 Kč` s olejem.
+
+Celkové ceny používají konzervativní variantu 20 zatravňovacích dlaždic, souvislou 45mm vrstvu 4/8 a cenu kameniva Těžební Písková bez dopravy. Po zaměření může lokální lože množství snížit. Cenu kameniva včetně dopravy porovnat s místní štěrkovnou podle PSČ.
 
 ### Množství
 
