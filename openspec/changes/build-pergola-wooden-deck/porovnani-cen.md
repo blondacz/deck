@@ -10,9 +10,9 @@ Ceny znovu ověřeny `13. 8. 2026`, včetně DPH. Doprava těžkého materiálu 
 | 1 000 terasových vrutů | nabídka 5x60 za 2 495 Kč | [Lun Fix C2 5x70](https://lunfix.cz/product/terasovy-vrut-5x70-nerezovy-C2) 1 645,76 Kč | 849,24 Kč |
 | 100 DuoPower + 200 A2 4x35 | Sabtrade + Hobby-max 426 Kč | ObchodProDílnu po registraci 306 Kč | 120 Kč |
 | 20 zatravňovacích dlaždic | Bauhaus 2 200 Kč | [OBI](https://www.obi.cz/terasove-a-chodnikove-dlazdice/diton-zatravnovaci-dlazba-80-prirodni-60-x-40-x-8-cm/p/5268362) 2 040 Kč | 160 Kč |
-| 1,7 t praného drceného 4/8 | Bauhaus 4 675 Kč | [Těžební Písková](https://www.tezebnipiskova.cz/cenik) 1 193,06 Kč | 3 481,94 Kč před dopravou |
+| 1,75 t praného drceného 4/8 | Bauhaus 4 812,50 Kč | [Těžební Písková](https://www.tezebnipiskova.cz/cenik) 1 228,15 Kč | 3 584,35 Kč před dopravou |
 
-Artisan je u podložky `7 mm` levnější, ale jeho stejná podložka `4 mm` stojí `4,93 Kč/ks`, tedy `1 972 Kč` za 400 kusů. Pro 4mm variantu zůstává levnější [Kup-dřevo](https://www.kup-drevo.cz/distancni-terasova-podlozka-4-mm-1) za `1 792 Kč`.
+Finální volba je 400 podložek `7 mm` z Artisan. Jeho stejná podložka `4 mm` stojí `4,93 Kč/ks`, tedy `1 972 Kč` za 400 kusů; tato varianta už není v nákupním scénáři.
 
 ### Doporučené Košíky
 
@@ -78,8 +78,8 @@ Nejlevnější ověřená kombinace před dopravou:
 | 20 obrubníků 1000x200x50 | [Bauhaus](https://www.bauhaus.cz/diton-zahradni-obrubnik-s-rovnou-hranou-28475220) | 1 780 Kč |
 | 20 zatravňovacích dlaždic 600x400x80 | [OBI](https://www.obi.cz/terasove-a-chodnikove-dlazdice/diton-zatravnovaci-dlazba-80-prirodni-60-x-40-x-8-cm/p/5268362) | 2 040 Kč |
 | 30 m² geotextilie 100 g/m² | [Bauhaus](https://www.bauhaus.cz/juta-geotextilie-netex-home-21683581) | 885 Kč |
-| 1,7 t praného drceného 4/8 | [Těžební Písková](https://www.tezebnipiskova.cz/cenik) | 1 193,06 Kč |
-| **Celkem bez dopravy** | | **5 898,06 Kč** |
+| 1,75 t praného drceného 4/8 | [Těžební Písková](https://www.tezebnipiskova.cz/cenik) | 1 228,15 Kč |
+| **Celkem bez dopravy** | | **5 933,15 Kč** |
 
 OBI ušetří na dlaždicích jen 160 Kč; při samostatné cestě nebo dopravě za 1 999 Kč je výhodnější vzít je s obrubníky v Bauhausu. Kamenivo z Těžební Pískové stojí `580 Kč/t bez DPH`; úspora se vyplatí pouze po započtení vzdálenosti od Kratonoh. Ještě lepší může být místní štěrkovna, která přiveze současně i podkladní `0/32`.
 
@@ -95,17 +95,17 @@ Rozdělené dřevo se vyplatí pouze pokud dodatečné dopravy proti jedné dod�
 
 ### Celkový Cenový Scénář
 
-Při zachování přesného dřeva Kup-dřevo, použití 7mm podložek Artisan, C2 vrutů Lun Fix, levnějšího kování, OBI dlaždic a kameniva Těžební Písková:
+Při zachování přesného dřeva Kup-dřevo, finálních 7mm podložek Artisan, C2 vrutů Lun Fix, levnějšího kování, OBI dlaždic a 1,75 t kameniva Těžební Písková:
 
 | Scénář | Zboží | Známá doprava | Nezahrnuto |
 |---|---:|---:|---|
-| Bez oleje, C2 vruty | 44 962,85 Kč | 1 868 Kč | doprava/pickup betonu a kameniva |
-| S 5 l oleje, C2 vruty | 46 690,73 Kč | 1 868 Kč | doprava/pickup betonu a kameniva |
-| Bez oleje, uživatelská nabídka A2/A4 5x70 | 45 812,09 Kč | 1 868 Kč + doprava vrutů | doprava/pickup betonu a kameniva |
+| Bez oleje, C2 vruty | 44 997,94 Kč | 1 868 Kč | doprava/pickup betonu a kameniva |
+| S 5 l oleje, C2 vruty | 46 725,82 Kč | 1 868 Kč | doprava/pickup betonu a kameniva |
+| Bez oleje, uživatelská nabídka A2/A4 5x70 | 45 847,18 Kč | 1 868 Kč + doprava vrutů | doprava/pickup betonu a kameniva |
 
 Známá doprava je Kup-dřevo `1 750 Kč`, Artisan `59 Kč` a ObchodProDílnu `59 Kč`. Lun Fix v ověřeném košíku dopravu neúčtoval.
 
-Proti předchozímu nákupnímu seznamu za přibližně `49 846 Kč` bez dopravy lze na zboží ušetřit až `4 883 Kč`. Většinu tvoří nákup 1,7 t kameniva z lomu místo hobby marketu.
+Proti předchozímu nákupnímu seznamu za přibližně `49 846 Kč` bez dopravy lze i po zvětšení terasy na 7mm spáry ušetřit přibližně `4 848 Kč`. Většinu tvoří nákup 1,75 t kameniva z lomu místo hobby marketu.
 
 ### Kupóny
 

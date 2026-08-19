@@ -19,18 +19,14 @@
 
 Use a perfect rectangle that is larger than the pergola on two exposed sides: one long side and one short side. Keep the house side aligned to the French-door transition and do not enlarge toward the facade unless needed for the threshold detail.
 
-Recommended enlargement: one full deck-board width on each of the two exposed sides.
-
-For a common 140 mm board width, this gives an approximate finished deck footprint of:
+Final footprint with the selected 142 mm boards, 7 mm longitudinal gaps, and 10 mm perimeter gaps:
 
 ```text
-5800 mm + 140 mm = 5940 mm
-3100 mm + 140 mm = 3240 mm
+width: 5942 mm
+depth: 22 x 142 + 21 x 7 + 2 x 10 = 3291 mm
 ```
 
-If the selected board is 145 mm wide, use approximately 5945 mm x 3245 mm. If the selected board is 120 mm wide, use approximately 5920 mm x 3220 mm.
-
-One board width is the preferred default because it looks intentional, keeps the rectangle slightly larger without wasting much material, and avoids creating a wide unsupported perimeter. Use slightly more than one board width only if the final board layout would otherwise leave an awkward narrow rip cut, or if you want a more generous visible border around furniture.
+The resulting deck is approximately 142 mm wider and 191 mm deeper than the nominal pergola footprint. The extra depth is accepted to keep all 22 rows full width with uniform 7 mm gaps rather than ripping the two edge rows.
 
 If using a picture-frame border, set the enlargement from the actual border board width plus desired movement gap rather than from the nominal pergola dimension alone.
 
@@ -74,7 +70,8 @@ Requirements for the detail:
 
 ## Material Choices Established So Far
 
-- Board spacing: use `distancni podlozka` or an equivalent spacing tool, not visual spacing by eye.
+- Board spacing: use the selected permanent 7 mm `distancni podlozka` from Artisan. Its 6 mm body separates the boards from the joists; 400 pieces cover 368 calculated positions plus reserve.
+- Butt joints: retain the 4 mm end-to-end gap and paired-joist positions from the cutting plan. The 7 mm permanent spacer controls the long-edge gap between neighboring board rows, not the butt gap.
 - Perimeter support: DITON `zatravnovaci dlazdice` 600 x 400 x 80 mm replace obrubníks on all three exposed edges. Set them about 300 mm under the deck and 100 mm outside, or fully under where site obstacles require it. Edge joists bear on solid paver ribs through rubber pads.
 - Long outside perimeter: do not force a continuous row through concrete piers. Existing piers replace pavers where they occupy the edge row; cut/field-fit pavers in gaps. Do not mechanically tie the deck to pergola leg piers unless necessary and clear of pergola anchors.
 - Internal support bearing: use three rows of flat-laid `zahradni obrubnik` segments. Pavers carry the three exposed structural edges.

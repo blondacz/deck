@@ -36,15 +36,15 @@
     <rect x="0" y="-280" width="5800" height="180" fill="#e4e7eb" stroke="#7b8794" stroke-width="12"/>
     <text x="2050" y="-155" style="font:90px Arial;fill:#1f2933">DUM / FRANCOUZSKE DVERE</text>
 
-    <rect x="0" y="0" width="5942" height="3229" class="deck"/>
+    <rect x="0" y="0" width="5942" height="3291" class="deck"/>
     <rect x="0" y="0" width="5800" height="3100" class="pergola"/>
 
     <!-- Structural paver rows. 300 mm under deck, 100 mm outside. -->
     <g id="edge-pavers">
-      <rect x="-100" y="0" width="400" height="600" class="paver"/><rect x="-100" y="600" width="400" height="600" class="paver"/><rect x="-100" y="1200" width="400" height="600" class="paver"/><rect x="-100" y="1800" width="400" height="600" class="paver"/><rect x="-100" y="2400" width="400" height="600" class="paver"/><rect x="-100" y="3000" width="400" height="229" class="paver"/>
-      <rect x="5642" y="0" width="400" height="600" class="paver"/><rect x="5642" y="600" width="400" height="600" class="paver"/><rect x="5642" y="1200" width="400" height="600" class="paver"/><rect x="5642" y="1800" width="400" height="600" class="paver"/><rect x="5642" y="2400" width="400" height="600" class="paver"/><rect x="5642" y="3000" width="400" height="229" class="paver"/>
+      <rect x="-100" y="0" width="400" height="600" class="paver"/><rect x="-100" y="600" width="400" height="600" class="paver"/><rect x="-100" y="1200" width="400" height="600" class="paver"/><rect x="-100" y="1800" width="400" height="600" class="paver"/><rect x="-100" y="2400" width="400" height="600" class="paver"/><rect x="-100" y="3000" width="400" height="291" class="paver"/>
+      <rect x="5642" y="0" width="400" height="600" class="paver"/><rect x="5642" y="600" width="400" height="600" class="paver"/><rect x="5642" y="1200" width="400" height="600" class="paver"/><rect x="5642" y="1800" width="400" height="600" class="paver"/><rect x="5642" y="2400" width="400" height="600" class="paver"/><rect x="5642" y="3000" width="400" height="291" class="paver"/>
       <!-- Garden edge pavers are segmented around five existing piers. -->
-      <rect x="620" y="2929" width="600" height="400" class="paver"/><rect x="1700" y="2929" width="440" height="400" class="paver"/><rect x="2640" y="2929" width="600" height="400" class="paver"/><rect x="4010" y="2929" width="600" height="400" class="paver"/><rect x="4610" y="2929" width="540" height="400" class="paver"/>
+      <rect x="620" y="2991" width="600" height="400" class="paver"/><rect x="1700" y="2991" width="440" height="400" class="paver"/><rect x="2640" y="2991" width="600" height="400" class="paver"/><rect x="4010" y="2991" width="600" height="400" class="paver"/><rect x="4610" y="2991" width="540" height="400" class="paver"/>
     </g>
 
     <!-- Three internal obrubnik rows. -->
@@ -53,24 +53,24 @@
     <use href="#internal-row" x="0" y="2020"/>
 
     <!-- Concrete piers replace pavers at garden edge. Positions schematic. -->
-    <rect x="120" y="2929" width="500" height="500" class="pier"/><rect x="2140" y="2929" width="500" height="500" class="pier"/><rect x="5150" y="2929" width="500" height="500" class="pier"/>
-    <rect x="1340" y="3000" width="360" height="420" class="old"/><rect x="3650" y="3000" width="360" height="420" class="old"/>
+    <rect x="120" y="2991" width="500" height="500" class="pier"/><rect x="2140" y="2991" width="500" height="500" class="pier"/><rect x="5150" y="2991" width="500" height="500" class="pier"/>
+    <rect x="1340" y="3062" width="360" height="420" class="old"/><rect x="3650" y="3062" width="360" height="420" class="old"/>
 
     <!-- 16 joists. Paired around alternating board butt joints. -->
-    <line x1="100" y1="0" x2="100" y2="3229" class="joist"/><line x1="550" y1="0" x2="550" y2="3229" class="joist"/>
-    <line x1="1000" y1="0" x2="1000" y2="3229" class="joist"/><line x1="1450" y1="0" x2="1450" y2="3229" class="joist"/>
-    <line x1="1915.5" y1="0" x2="1915.5" y2="3229" class="pair"/><line x1="1964.5" y1="0" x2="1964.5" y2="3229" class="pair"/>
-    <line x1="2400" y1="0" x2="2400" y2="3229" class="joist"/><line x1="2900" y1="0" x2="2900" y2="3229" class="joist"/>
-    <line x1="3350" y1="0" x2="3350" y2="3229" class="joist"/><line x1="3700" y1="0" x2="3700" y2="3229" class="joist"/>
-    <line x1="3977.5" y1="0" x2="3977.5" y2="3229" class="pair"/><line x1="4026.5" y1="0" x2="4026.5" y2="3229" class="pair"/>
-    <line x1="4475" y1="0" x2="4475" y2="3229" class="joist"/><line x1="4925" y1="0" x2="4925" y2="3229" class="joist"/>
-    <line x1="5400" y1="0" x2="5400" y2="3229" class="joist"/><line x1="5900" y1="0" x2="5900" y2="3229" class="joist"/>
+    <line x1="100" y1="0" x2="100" y2="3291" class="joist"/><line x1="550" y1="0" x2="550" y2="3291" class="joist"/>
+    <line x1="1000" y1="0" x2="1000" y2="3291" class="joist"/><line x1="1450" y1="0" x2="1450" y2="3291" class="joist"/>
+    <line x1="1915.5" y1="0" x2="1915.5" y2="3291" class="pair"/><line x1="1964.5" y1="0" x2="1964.5" y2="3291" class="pair"/>
+    <line x1="2400" y1="0" x2="2400" y2="3291" class="joist"/><line x1="2900" y1="0" x2="2900" y2="3291" class="joist"/>
+    <line x1="3350" y1="0" x2="3350" y2="3291" class="joist"/><line x1="3700" y1="0" x2="3700" y2="3291" class="joist"/>
+    <line x1="3977.5" y1="0" x2="3977.5" y2="3291" class="pair"/><line x1="4026.5" y1="0" x2="4026.5" y2="3291" class="pair"/>
+    <line x1="4475" y1="0" x2="4475" y2="3291" class="joist"/><line x1="4925" y1="0" x2="4925" y2="3291" class="joist"/>
+    <line x1="5400" y1="0" x2="5400" y2="3291" class="joist"/><line x1="5900" y1="0" x2="5900" y2="3291" class="joist"/>
 
     <!-- 3 internal supports + 1 structural garden-edge support = 64 pads. -->
-    <use href="#pads" x="0" y="0"/><use href="#pads" x="0" y="1010"/><use href="#pads" x="0" y="2020"/><use href="#pads" x="0" y="2929"/>
+    <use href="#pads" x="0" y="0"/><use href="#pads" x="0" y="1010"/><use href="#pads" x="0" y="2020"/><use href="#pads" x="0" y="2991"/>
 
     <!-- Geotextile turns up outside structural edge pavers/piers. -->
-    <path d="M-110 0V3340M6052 0V3340M-110 3340H6052" class="geo"/>
+    <path d="M-110 0V3402M6052 0V3402M-110 3402H6052" class="geo"/>
   </g>
 
   <line x1="210" y1="105" x2="1280" y2="105" class="dim"/><text x="700" y="98" class="small">5942 mm</text>

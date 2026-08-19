@@ -10,23 +10,23 @@
 
   <g transform="translate(180 150)">
     <rect x="350" y="40" width="610" height="27" class="board"/><text x="990" y="60" class="label">terasove prkno 27 mm</text>
-    <rect x="390" y="67" width="120" height="4" class="pad"/><text x="990" y="82" class="label">podlozka vyska 6 mm; spara 4/7 mm</text>
-    <rect x="380" y="71" width="500" height="70" class="joist"/><text x="990" y="112" class="label">krajni hranol 45x70</text>
-    <rect x="405" y="141" width="130" height="8" class="pad"/><text x="990" y="153" class="label">pryzova podlozka 8 mm</text>
+    <rect x="390" y="67" width="120" height="6" class="pad"/><text x="990" y="82" class="label">podlozka vyska 6 mm; spara 7 mm</text>
+    <rect x="380" y="73" width="500" height="70" class="joist"/><text x="990" y="114" class="label">krajni hranol 45x70</text>
+    <rect x="405" y="143" width="130" height="8" class="pad"/><text x="990" y="155" class="label">pryzova podlozka 8 mm</text>
 
     <!-- Paver crosses deck edge: 300 inside, 100 outside. -->
-    <rect x="250" y="149" width="400" height="80" class="paver"/>
-    <line x1="350" y1="120" x2="350" y2="250" stroke="#b42318" stroke-width="3" stroke-dasharray="8 5"/>
-    <text x="195" y="245" class="small">100 mm venku</text><text x="430" y="245" class="small">300 mm pod terasou</text>
-    <text x="700" y="190" class="label">DITON zatravnovaci dlazdice 600x400x80</text>
+    <rect x="250" y="151" width="400" height="80" class="paver"/>
+    <line x1="350" y1="122" x2="350" y2="252" stroke="#b42318" stroke-width="3" stroke-dasharray="8 5"/>
+    <text x="195" y="247" class="small">100 mm venku</text><text x="430" y="247" class="small">300 mm pod terasou</text>
+    <text x="700" y="192" class="label">DITON zatravnovaci dlazdice 600x400x80</text>
 
-    <rect x="150" y="229" width="850" height="45" class="top"/><text x="1030" y="260" class="label">4/8 kladeci vrstva</text>
-    <rect x="150" y="274" width="850" height="95" class="base"/><text x="1030" y="325" class="label">podklad 95 mm; overit 0/32 vs 2/32</text>
-    <line x1="150" y1="369" x2="1000" y2="369" stroke="#2f9e44" stroke-width="5" stroke-dasharray="14 8"/>
-    <rect x="150" y="374" width="850" height="90" class="soil"/>
+    <rect x="150" y="231" width="850" height="45" class="top"/><text x="1030" y="262" class="label">4/8 kladeci vrstva</text>
+    <rect x="150" y="276" width="850" height="95" class="base"/><text x="1030" y="327" class="label">podklad 95 mm; overit 0/32 vs 2/32</text>
+    <line x1="150" y1="371" x2="1000" y2="371" stroke="#2f9e44" stroke-width="5" stroke-dasharray="14 8"/>
+    <rect x="150" y="376" width="850" height="90" class="soil"/>
 
     <!-- Geotextile upturn outside paver. -->
-    <path d="M245 369V145" class="geo"/><text x="20" y="315" class="small">geotextilie mezi zeminou a vnejsi stranou dlazdice</text>
+    <path d="M245 371V147" class="geo"/><text x="20" y="317" class="small">geotextilie mezi zeminou a vnejsi stranou dlazdice</text>
 
     <!-- Fascia, straight visible line. -->
     <rect x="315" y="40" width="28" height="142" class="fascia"/>

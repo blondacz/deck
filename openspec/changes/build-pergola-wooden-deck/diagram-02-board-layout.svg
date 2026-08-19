@@ -23,47 +23,47 @@
   <text x="-580" y="-250" class="label">Siberian larch boards 27 x 142 x 4000 mm. Boards run left-right.</text>
 
   <!-- Deck outline -->
-  <rect x="0" y="0" width="5942" height="3229" fill="#f5d0a0" opacity="0.35" />
-  <rect x="0" y="0" width="5942" height="3229" class="outline" />
+  <rect x="0" y="0" width="5942" height="3291" fill="#f5d0a0" opacity="0.35" />
+  <rect x="0" y="0" width="5942" height="3291" class="outline" />
 
-  <!-- 22 rows: 142 board + 5 gap. Odd rows full board left, even rows full board right. Butt gap assumed 4 mm. -->
+  <!-- 22 rows: 142 board + 7 gap, with 10 mm perimeter gaps. Butt gap remains 4 mm. -->
   <g id="boards">
-    <!-- helper: y pitch 147 -->
-    <g transform="translate(0 0)"><rect x="0" y="0" width="4000" height="142" class="boardA"/><rect x="4000" y="0" width="4" height="142" class="gap"/><rect x="4004" y="0" width="1938" height="142" class="boardB"/></g>
-    <g transform="translate(0 147)"><rect x="0" y="0" width="1938" height="142" class="boardB"/><rect x="1938" y="0" width="4" height="142" class="gap"/><rect x="1942" y="0" width="4000" height="142" class="boardA"/></g>
-    <g transform="translate(0 294)"><rect x="0" y="0" width="4000" height="142" class="boardA"/><rect x="4000" y="0" width="4" height="142" class="gap"/><rect x="4004" y="0" width="1938" height="142" class="boardB"/></g>
-    <g transform="translate(0 441)"><rect x="0" y="0" width="1938" height="142" class="boardB"/><rect x="1938" y="0" width="4" height="142" class="gap"/><rect x="1942" y="0" width="4000" height="142" class="boardA"/></g>
-    <g transform="translate(0 588)"><rect x="0" y="0" width="4000" height="142" class="boardA"/><rect x="4000" y="0" width="4" height="142" class="gap"/><rect x="4004" y="0" width="1938" height="142" class="boardB"/></g>
-    <g transform="translate(0 735)"><rect x="0" y="0" width="1938" height="142" class="boardB"/><rect x="1938" y="0" width="4" height="142" class="gap"/><rect x="1942" y="0" width="4000" height="142" class="boardA"/></g>
-    <g transform="translate(0 882)"><rect x="0" y="0" width="4000" height="142" class="boardA"/><rect x="4000" y="0" width="4" height="142" class="gap"/><rect x="4004" y="0" width="1938" height="142" class="boardB"/></g>
-    <g transform="translate(0 1029)"><rect x="0" y="0" width="1938" height="142" class="boardB"/><rect x="1938" y="0" width="4" height="142" class="gap"/><rect x="1942" y="0" width="4000" height="142" class="boardA"/></g>
-    <g transform="translate(0 1176)"><rect x="0" y="0" width="4000" height="142" class="boardA"/><rect x="4000" y="0" width="4" height="142" class="gap"/><rect x="4004" y="0" width="1938" height="142" class="boardB"/></g>
-    <g transform="translate(0 1323)"><rect x="0" y="0" width="1938" height="142" class="boardB"/><rect x="1938" y="0" width="4" height="142" class="gap"/><rect x="1942" y="0" width="4000" height="142" class="boardA"/></g>
-    <g transform="translate(0 1470)"><rect x="0" y="0" width="4000" height="142" class="boardA"/><rect x="4000" y="0" width="4" height="142" class="gap"/><rect x="4004" y="0" width="1938" height="142" class="boardB"/></g>
-    <g transform="translate(0 1617)"><rect x="0" y="0" width="1938" height="142" class="boardB"/><rect x="1938" y="0" width="4" height="142" class="gap"/><rect x="1942" y="0" width="4000" height="142" class="boardA"/></g>
-    <g transform="translate(0 1764)"><rect x="0" y="0" width="4000" height="142" class="boardA"/><rect x="4000" y="0" width="4" height="142" class="gap"/><rect x="4004" y="0" width="1938" height="142" class="boardB"/></g>
-    <g transform="translate(0 1911)"><rect x="0" y="0" width="1938" height="142" class="boardB"/><rect x="1938" y="0" width="4" height="142" class="gap"/><rect x="1942" y="0" width="4000" height="142" class="boardA"/></g>
-    <g transform="translate(0 2058)"><rect x="0" y="0" width="4000" height="142" class="boardA"/><rect x="4000" y="0" width="4" height="142" class="gap"/><rect x="4004" y="0" width="1938" height="142" class="boardB"/></g>
-    <g transform="translate(0 2205)"><rect x="0" y="0" width="1938" height="142" class="boardB"/><rect x="1938" y="0" width="4" height="142" class="gap"/><rect x="1942" y="0" width="4000" height="142" class="boardA"/></g>
-    <g transform="translate(0 2352)"><rect x="0" y="0" width="4000" height="142" class="boardA"/><rect x="4000" y="0" width="4" height="142" class="gap"/><rect x="4004" y="0" width="1938" height="142" class="boardB"/></g>
-    <g transform="translate(0 2499)"><rect x="0" y="0" width="1938" height="142" class="boardB"/><rect x="1938" y="0" width="4" height="142" class="gap"/><rect x="1942" y="0" width="4000" height="142" class="boardA"/></g>
-    <g transform="translate(0 2646)"><rect x="0" y="0" width="4000" height="142" class="boardA"/><rect x="4000" y="0" width="4" height="142" class="gap"/><rect x="4004" y="0" width="1938" height="142" class="boardB"/></g>
-    <g transform="translate(0 2793)"><rect x="0" y="0" width="1938" height="142" class="boardB"/><rect x="1938" y="0" width="4" height="142" class="gap"/><rect x="1942" y="0" width="4000" height="142" class="boardA"/></g>
-    <g transform="translate(0 2940)"><rect x="0" y="0" width="4000" height="142" class="boardA"/><rect x="4000" y="0" width="4" height="142" class="gap"/><rect x="4004" y="0" width="1938" height="142" class="boardB"/></g>
-    <g transform="translate(0 3087)"><rect x="0" y="0" width="1938" height="142" class="boardB"/><rect x="1938" y="0" width="4" height="142" class="gap"/><rect x="1942" y="0" width="4000" height="142" class="boardA"/></g>
+    <!-- helper: y pitch 149, first row starts after 10 mm perimeter gap -->
+    <g transform="translate(0 10)"><rect x="0" y="0" width="4000" height="142" class="boardA"/><rect x="4000" y="0" width="4" height="142" class="gap"/><rect x="4004" y="0" width="1938" height="142" class="boardB"/></g>
+    <g transform="translate(0 159)"><rect x="0" y="0" width="1938" height="142" class="boardB"/><rect x="1938" y="0" width="4" height="142" class="gap"/><rect x="1942" y="0" width="4000" height="142" class="boardA"/></g>
+    <g transform="translate(0 308)"><rect x="0" y="0" width="4000" height="142" class="boardA"/><rect x="4000" y="0" width="4" height="142" class="gap"/><rect x="4004" y="0" width="1938" height="142" class="boardB"/></g>
+    <g transform="translate(0 457)"><rect x="0" y="0" width="1938" height="142" class="boardB"/><rect x="1938" y="0" width="4" height="142" class="gap"/><rect x="1942" y="0" width="4000" height="142" class="boardA"/></g>
+    <g transform="translate(0 606)"><rect x="0" y="0" width="4000" height="142" class="boardA"/><rect x="4000" y="0" width="4" height="142" class="gap"/><rect x="4004" y="0" width="1938" height="142" class="boardB"/></g>
+    <g transform="translate(0 755)"><rect x="0" y="0" width="1938" height="142" class="boardB"/><rect x="1938" y="0" width="4" height="142" class="gap"/><rect x="1942" y="0" width="4000" height="142" class="boardA"/></g>
+    <g transform="translate(0 904)"><rect x="0" y="0" width="4000" height="142" class="boardA"/><rect x="4000" y="0" width="4" height="142" class="gap"/><rect x="4004" y="0" width="1938" height="142" class="boardB"/></g>
+    <g transform="translate(0 1053)"><rect x="0" y="0" width="1938" height="142" class="boardB"/><rect x="1938" y="0" width="4" height="142" class="gap"/><rect x="1942" y="0" width="4000" height="142" class="boardA"/></g>
+    <g transform="translate(0 1202)"><rect x="0" y="0" width="4000" height="142" class="boardA"/><rect x="4000" y="0" width="4" height="142" class="gap"/><rect x="4004" y="0" width="1938" height="142" class="boardB"/></g>
+    <g transform="translate(0 1351)"><rect x="0" y="0" width="1938" height="142" class="boardB"/><rect x="1938" y="0" width="4" height="142" class="gap"/><rect x="1942" y="0" width="4000" height="142" class="boardA"/></g>
+    <g transform="translate(0 1500)"><rect x="0" y="0" width="4000" height="142" class="boardA"/><rect x="4000" y="0" width="4" height="142" class="gap"/><rect x="4004" y="0" width="1938" height="142" class="boardB"/></g>
+    <g transform="translate(0 1649)"><rect x="0" y="0" width="1938" height="142" class="boardB"/><rect x="1938" y="0" width="4" height="142" class="gap"/><rect x="1942" y="0" width="4000" height="142" class="boardA"/></g>
+    <g transform="translate(0 1798)"><rect x="0" y="0" width="4000" height="142" class="boardA"/><rect x="4000" y="0" width="4" height="142" class="gap"/><rect x="4004" y="0" width="1938" height="142" class="boardB"/></g>
+    <g transform="translate(0 1947)"><rect x="0" y="0" width="1938" height="142" class="boardB"/><rect x="1938" y="0" width="4" height="142" class="gap"/><rect x="1942" y="0" width="4000" height="142" class="boardA"/></g>
+    <g transform="translate(0 2096)"><rect x="0" y="0" width="4000" height="142" class="boardA"/><rect x="4000" y="0" width="4" height="142" class="gap"/><rect x="4004" y="0" width="1938" height="142" class="boardB"/></g>
+    <g transform="translate(0 2245)"><rect x="0" y="0" width="1938" height="142" class="boardB"/><rect x="1938" y="0" width="4" height="142" class="gap"/><rect x="1942" y="0" width="4000" height="142" class="boardA"/></g>
+    <g transform="translate(0 2394)"><rect x="0" y="0" width="4000" height="142" class="boardA"/><rect x="4000" y="0" width="4" height="142" class="gap"/><rect x="4004" y="0" width="1938" height="142" class="boardB"/></g>
+    <g transform="translate(0 2543)"><rect x="0" y="0" width="1938" height="142" class="boardB"/><rect x="1938" y="0" width="4" height="142" class="gap"/><rect x="1942" y="0" width="4000" height="142" class="boardA"/></g>
+    <g transform="translate(0 2692)"><rect x="0" y="0" width="4000" height="142" class="boardA"/><rect x="4000" y="0" width="4" height="142" class="gap"/><rect x="4004" y="0" width="1938" height="142" class="boardB"/></g>
+    <g transform="translate(0 2841)"><rect x="0" y="0" width="1938" height="142" class="boardB"/><rect x="1938" y="0" width="4" height="142" class="gap"/><rect x="1942" y="0" width="4000" height="142" class="boardA"/></g>
+    <g transform="translate(0 2990)"><rect x="0" y="0" width="4000" height="142" class="boardA"/><rect x="4000" y="0" width="4" height="142" class="gap"/><rect x="4004" y="0" width="1938" height="142" class="boardB"/></g>
+    <g transform="translate(0 3139)"><rect x="0" y="0" width="1938" height="142" class="boardB"/><rect x="1938" y="0" width="4" height="142" class="gap"/><rect x="1942" y="0" width="4000" height="142" class="boardA"/></g>
   </g>
 
-  <line x1="1938" y1="0" x2="1938" y2="3229" class="joint" />
-  <line x1="4000" y1="0" x2="4000" y2="3229" class="joint" />
-  <line x1="1915.5" y1="0" x2="1915.5" y2="3229" class="pair"/><line x1="1964.5" y1="0" x2="1964.5" y2="3229" class="pair"/>
-  <line x1="3977.5" y1="0" x2="3977.5" y2="3229" class="pair"/><line x1="4026.5" y1="0" x2="4026.5" y2="3229" class="pair"/>
+  <line x1="1938" y1="10" x2="1938" y2="3281" class="joint" />
+  <line x1="4000" y1="10" x2="4000" y2="3281" class="joint" />
+  <line x1="1915.5" y1="10" x2="1915.5" y2="3281" class="pair"/><line x1="1964.5" y1="10" x2="1964.5" y2="3281" class="pair"/>
+  <line x1="3977.5" y1="10" x2="3977.5" y2="3281" class="pair"/><line x1="4026.5" y1="10" x2="4026.5" y2="3281" class="pair"/>
   <text x="2040" y="280" class="small">dvojice hranolu pod spojem</text>
   <text x="4100" y="280" class="small">dvojice hranolu pod spojem</text>
 
   <line x1="0" y1="-330" x2="5942" y2="-330" class="dim" />
   <text x="2250" y="-390" class="dimtext">5942 mm</text>
-  <line x1="-360" y1="0" x2="-360" y2="3229" class="dim" />
-  <text x="-520" y="1870" class="dimtext" transform="rotate(-90 -520 1870)">3229 mm = 22 rows</text>
+  <line x1="-360" y1="0" x2="-360" y2="3291" class="dim" />
+  <text x="-520" y="1900" class="dimtext" transform="rotate(-90 -520 1900)">3291 mm = 22 rows, 7 mm gaps</text>
 
   <g transform="translate(0 3550)">
     <text x="0" y="0" class="label">Cut logic</text>

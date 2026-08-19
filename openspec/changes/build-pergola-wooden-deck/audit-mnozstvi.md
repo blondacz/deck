@@ -1,6 +1,6 @@
 ## Audit Množství
 
-Přepočteno `13. 8. 2026` podle rozměrů a detailů v diagramech. Hodnoty označené jako předběžné je nutné potvrdit zaměřením nebo údajem výrobce.
+Přepočteno `19. 8. 2026` podle finální 7mm spáry a detailů v diagramech. Hodnoty označené jako předběžné je nutné potvrdit zaměřením nebo údajem výrobce.
 
 ### Souhrn
 
@@ -14,9 +14,9 @@ Přepočteno `13. 8. 2026` podle rozměrů a detailů v diagramech. Hodnoty ozna
 | Obrubníky 1000x200x50 | 18 ks | 20 ks | Beze změny |
 | Zatravňovací dlaždice 600x400x80 | 18 až 19 ks podle skutečných mezer mezi patkami | 20 ks | Jeden bezpečný kus navíc; koupit po zaměření |
 | Pryžové podložky 70x70 | 64 ks | 3 role = 84 ks | Beze změny |
-| Geotextilie | přibližně 28,6 m² s přesahy a vytažením okrajů | 30 m² | Původních 25 m² nemá bezpečnou rezervu |
-| Štěrk 4/8 | přibližně 1,6 až 1,7 t pro souvislou vrstvu 45 mm | předběžně 1,7 t | Původních 400 kg stačí jen na lokální lože |
-| Podkladní kamenivo | přibližně 2,2 m³ volně loženého materiálu pro 95 mm zhutněné vrstvy | asi 4,0 až 4,5 t | Není v ceně; potvrdit frakci a hloubku |
+| Geotextilie | přibližně 29,1 m² s přesahy a vytažením okrajů | 30 m² | Původních 25 m² nemá bezpečnou rezervu |
+| Štěrk 4/8 | přibližně 1,73 t pro souvislou vrstvu 45 mm | předběžně 1,75 t | Původních 400 kg stačí jen na lokální lože |
+| Podkladní kamenivo | přibližně 2,28 m³ volně loženého materiálu pro 95 mm zhutněné vrstvy | asi 4,1 až 4,6 t | Není v ceně; potvrdit frakci a hloubku |
 | Úhelníky | 36 ks | 40 ks | Beze změny |
 | Hmoždinky do betonu | 36 ks | 100 ks | Beze změny kvůli velikosti balení |
 | Nerezové vruty 4x35 | 108 ks | 200 ks | Beze změny |
@@ -35,13 +35,13 @@ Každá z 22 řad používá jedno celé 4m prkno a jeden díl dlouhý přibliž
 Tři pohledové strany bočnice měří přibližně:
 
 ```text
-5942 + 3229 + 3229 = 12 400 mm
-ceil(12 400 / 4000) = 4 ks minimum
+5942 + 3291 + 3291 = 12 524 mm
+ceil(12 524 / 4000) = 4 ks minimum
 ```
 
 Páté hladké prkno je rozumná pohledová a řezná rezerva.
 
-Šestnáct hranolů je dlouhých 3229 mm, takže každý vznikne z jednoho 4m kusu. Z každého zbude přibližně 771 mm. Odřezky stačí na lokální blokování pod bočnicemi, ale ne na samostatný souvislý obvodový rám. Sedmnáctý hranol ponechat celý do dokončení detailu podpory bočnic.
+Šestnáct hranolů je dlouhých 3291 mm, takže každý vznikne z jednoho 4m kusu. Z každého zbude přibližně 709 mm. Odřezky stačí na lokální blokování pod bočnicemi, ale ne na samostatný souvislý obvodový rám. Sedmnáctý hranol ponechat celý do dokončení detailu podpory bočnic.
 
 ### Distanční Podložky
 
@@ -55,16 +55,15 @@ celkem = 368 ks
 
 Nákup 400 kusů nechává 32 kusů, tedy 8,7 %, jako rezervu. Pokud se na obou vnějších hranách použije jiný schválený 6mm podkladní pásek, stačí 336 těchto podložek; s rezervou přibližně 370 kusů.
 
-Podložka zvedá prkno přibližně o 6 mm. Označení 4 nebo 7 mm určuje šířku spáry, nikoli výšku podložky.
-
-Rozměr pole `3229 mm` nyní odpovídá 22 prknům se spárou 5 mm bez okrajových mezer. Při skutečné šířce prken 142 mm:
+Vybraná podložka zvedá prkno přibližně o 6 mm a vytváří podélnou spáru 7 mm. Finální hloubka pole při skutečné šířce prken 142 mm:
 
 ```text
-4mm spára: 22 x 142 + 21 x 4 = 3208 mm
-7mm spára: 22 x 142 + 21 x 7 = 3271 mm
+22 x 142 + 21 x 7 + 2 x 10 = 3291 mm
 ```
 
-Čtyřmilimetrová varianta se do pole vejde s celkovou okrajovou mezerou 21 mm. Sedmimilimetrová se nevejde bez zvětšení hloubky nebo podélného seříznutí krajních prken. Před montáží změřit skutečnou šířku a vlhkost několika prken a podle toho upravit rozměr pole.
+Oproti původnímu návrhu se hloubka zvětšila o 62 mm. Před založením obvodu změřit skutečnou šířku několika prken; přirozené dřevo nemusí mít přesně 142 mm. Zachovat 7mm spáry a případný rozdíl promítnout do konečné hloubky nebo okrajových mezer.
+
+Sedmimilimetrová podložka určuje podélnou mezeru mezi sousedními řadami. Čelní spoje dvou dílů v jedné řadě zůstávají 4 mm podle řezného plánu a polohy zdvojených hranolů.
 
 ### Vruty A Kotvení
 
@@ -112,22 +111,22 @@ Tři role jsou správně.
 
 ### Geotextilie
 
-Půdorys včetně 100mm přesahu nosných dlaždic je přibližně `6,142 x 3,329 m = 20,45 m²`. Po přidání přesahů mezi pásy, vytažení na třech vnějších stranách, rohů a 10% řezné rezervy vychází přibližně `28,6 m²`.
+Půdorys včetně 100mm přesahu nosných dlaždic je přibližně `6,142 x 3,391 m = 20,83 m²`. Po přidání přesahů mezi pásy, vytažení na třech vnějších stranách, rohů a 10% řezné rezervy vychází přibližně `29,1 m²`.
 
 Doporučený nákup je `30 m²`. U metrové role lze použít tři role `10x1 m`; širší role sníží počet spojů. Jedna role `25x1 m` není bezpečná.
 
 ### Kamenivo
 
-Řez `diagram-03-fascia-section.svg` zobrazuje souvislou 45mm vrstvu 4/8. Pro plochu včetně okrajových dlaždic a běžnou sypnou hmotnost vychází s rezervou přibližně `1,6 až 1,7 t`.
+Řez `diagram-03-fascia-section.svg` zobrazuje souvislou 45mm vrstvu 4/8. Pro zvětšenou plochu včetně okrajových dlaždic a běžnou sypnou hmotnost vychází s rezervou přibližně `1,73 t`; předběžně objednat `1,75 t`.
 
 Původních 400 kg vytvoří přes celý půdorys jen asi 12 až 14 mm. Stačí pouze tehdy, pokud se 4/8 použije jako přibližně 30mm lokální lože jen pod betonovými prvky. Nákupní seznam nyní počítá s konzervativní souvislou 45mm vrstvou podle řezu.
 
-Pro zakreslený 95mm podklad přes přibližně 20,45 m²:
+Pro zakreslený 95mm podklad přes přibližně 20,83 m²:
 
 ```text
-zhutněný objem = 20,45 x 0,095 = 1,94 m³
-objednaný volný objem s přídavkem na zhutnění = přibližně 2,2 m³
-orientační hmotnost = přibližně 4,0 až 4,5 t
+zhutněný objem = 20,83 x 0,095 = 1,98 m³
+objednaný volný objem s přídavkem na zhutnění = přibližně 2,28 m³
+orientační hmotnost = přibližně 4,1 až 4,6 t
 ```
 
 Před objednáním potvrdit skutečnou výšku po výkopu a zda má být nosná zhutnitelná frakce `0/32`, nebo navržená drenážní frakce `2/32`.
